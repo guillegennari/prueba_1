@@ -26,3 +26,11 @@ body {
      left:0;
      right:0;
  }
+
+ .redes a {
+     color: #ffffff;
+ }
+
+ .redes a:hover {
+     color: #17a2b8;
+ }
