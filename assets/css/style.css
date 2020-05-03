@@ -1,3 +1,7 @@
+body * {
+    font-family: 'Roboto Mono', monospace;
+}
+
 .hero {
     background-image:url(../img/gusanito.jpg);
     background-position: top;
