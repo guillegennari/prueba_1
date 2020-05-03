@@ -2,6 +2,10 @@ body * {
     font-family: 'Roboto Mono', monospace;
 }
 
+body {
+    margin-top: 60px;
+}
+
 .hero {
     background-image:url(../img/gusanito.jpg);
     background-position: top;
