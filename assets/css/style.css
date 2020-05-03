@@ -34,3 +34,9 @@ body {
  .redes a:hover {
      color: #17a2b8;
  }
+
+ .about , .experiencia {
+     color:#343a40;
+     text-align: justify;
+
+ }
